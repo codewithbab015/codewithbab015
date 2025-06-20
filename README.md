@@ -108,44 +108,26 @@
 <div align="center">
   <table>
     <tr>
-         <td style="width: 33%; padding: 10px;">
-            <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
-              <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#ffd700;">Amazon Product Web Scraper (CLI)</a></h4>
-              <p align="center">Scrapes product data from the Amazon marketplace and stores it in a PostgreSQL database.</p>
-              <p align="center">🛠️ Python · Playwright · BeautifulSoup · Docker · CLI (Linux)</p>
-              <p align="center">🔗 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Source Code</a></p>
-            </div>
-        </td>
-
-<!--       <td style="width: 33%; padding: 10px;">
-        <div style="background:#4facfe; border-radius:12px; padding:15px; color:white;">
-          <h4 align="center">🔄 <a href="https://github.com/codewithbab015/etl-pipeline-multilingual" style="color:#ffd700;">Multilingual ETL Pipeline</a></h4>
-          <p align="center">Airflow pipeline for multilingual NLP workflows</p>
-          <p align="center">🛠️ Airflow · Spark · dbt · PostgreSQL</p>
-          <p align="center">🔗 <a href="https://github.com/codewithbab015/etl-pipeline-multilingual" style="color:white;">Source Code</a></p>
+      <td style="width: 33%; padding: 10px;">
+        <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
+          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#ffd700;">Amazon Product Web Scraper (CLI)</a></h4>
+          <p align="center">Scrapes product data from the Amazon marketplace and stores it locally as structured data.</p>
+          <p align="center">🛠️ Python · Playwright · BeautifulSoup</p>
+          <p align="center">🔗 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Source Code</a></p>
         </div>
       </td>
       <td style="width: 33%; padding: 10px;">
-        <div style="background:#43e97b; border-radius:12px; padding:15px; color:white;">
-          <h4 align="center">🌍 <a href="https://github.com/codewithbab015/sentiment-sa-languages" style="color:#ffd700;">Multilingual Sentiment</a></h4>
-          <p align="center">SA language sentiment analysis with xAI</p>
-          <p align="center">🛠️ Hugging Face · TensorFlow · SHAP</p>
-          <p align="center">🔗 <a href="https://github.com/codewithbab015/sentiment-sa-languages" style="color:white;">Source Code</a></p>
+        <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
+          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-dockerized" style="color:#ffd700;">Amazon Product Web Scraper (Dockerized)</a></h4>
+          <p align="center">A containerized version of the Amazon Scraper CLI that saves product data to a PostgreSQL database.</p>
+          <p align="center">🛠️ Extends <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Amazon Scraper CLI</a> · Docker · PostgreSQL · CLI (Linux)</p>
+          <p align="center">🔗 <a href="https://github.com/codewithbab015/amazon-scraper-dockerized" style="color:white;">Source Code</a></p>
         </div>
       </td>
     </tr>
-    <tr>
-      <td colspan="3" style="padding: 10px;">
-        <div style="background:#f093fb; border-radius:12px; padding:15px; color:white;">
-          <h4 align="center">📈 <a href="https://github.com/codewithbab015/realtime-ml-api" style="color:#ffd700;">Real-time ML API</a></h4>
-          <p align="center">FastAPI service for inference with monitoring & CI/CD</p>
-          <p align="center">🛠️ FastAPI · Redis · Prometheus · Jenkins</p>
-          <p align="center">🔗 <a href="https://github.com/codewithbab015/realtime-ml-api" style="color:white;">Source Code</a></p>
-        </div>
-      </td>
-    </tr> -->
   </table>
 </div>
+
 
 <hr>
 
