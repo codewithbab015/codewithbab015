@@ -106,17 +106,18 @@
 <!-- Featured Projects -->
 <h3 align="center">📂 Featured Projects</h3>
 <div align="center">
-<!--   <table>
+  <table>
     <tr>
-      <td style="width: 33%; padding: 10px;">
-        <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
-          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/ml-pipeline-template" style="color:#ffd700;">ML Pipeline Template</a></h4>
-          <p align="center">Production-ready MLOps template for training & deployment</p>
-          <p align="center">🛠️ Python · MLflow · Docker · Jenkins</p>
-          <p align="center">🔗 <a href="https://github.com/codewithbab015/ml-pipeline-template" style="color:white;">Source Code</a></p>
-        </div>
-      </td>
-      <td style="width: 33%; padding: 10px;">
+         <td style="width: 33%; padding: 10px;">
+            <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
+              <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#ffd700;">Amazon Product Web Scraper (CLI)</a></h4>
+              <p align="center">Scrapes product data from the Amazon marketplace and stores it in a PostgreSQL database.</p>
+              <p align="center">🛠️ Python · Playwright · BeautifulSoup · Docker · CLI (Linux)</p>
+              <p align="center">🔗 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Source Code</a></p>
+            </div>
+        </td>
+
+<!--       <td style="width: 33%; padding: 10px;">
         <div style="background:#4facfe; border-radius:12px; padding:15px; color:white;">
           <h4 align="center">🔄 <a href="https://github.com/codewithbab015/etl-pipeline-multilingual" style="color:#ffd700;">Multilingual ETL Pipeline</a></h4>
           <p align="center">Airflow pipeline for multilingual NLP workflows</p>
@@ -142,8 +143,8 @@
           <p align="center">🔗 <a href="https://github.com/codewithbab015/realtime-ml-api" style="color:white;">Source Code</a></p>
         </div>
       </td>
-    </tr>
-  </table> -->
+    </tr> -->
+  </table>
 </div>
 
 <hr>
