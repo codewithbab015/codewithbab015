@@ -135,7 +135,7 @@
           <p align="center">🔁 CI/CD • 🐳 Docker • ☸️ Kubernetes (Helm Charts)</p>
           <p align="center">
             🔗
-            <a href="https://github.com/codewithbab015/amazon-scraper-dockerized" style="color: white; text-decoration: underline;">
+            <a href="https://github.com/codewithbab015/fnb-dataquest-recosys" style="color: white; text-decoration: underline;">
               Source Code
             </a>
           </p>
