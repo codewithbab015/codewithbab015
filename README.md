@@ -110,17 +110,17 @@
     <tr>
       <td style="width: 33%; padding: 10px;">
         <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
-          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#ffd700;">Amazon Product Web Scraper (CLI)</a></h4>
-          <p align="center">Scrapes product data from the Amazon marketplace and stores it locally as structured data.</p>
+          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#ffd700;">Product Web Scraper (CLI)</a></h4>
+          <p align="center">Scrapes product data from different marketplaces and store it locally.</p>
           <p align="center">🛠️ Python · Playwright · BeautifulSoup</p>
           <p align="center">🔗 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Source Code</a></p>
         </div>
       </td>
       <td style="width: 33%; padding: 10px;">
         <div style="background:#1e3c72; border-radius:12px; padding:15px; color:white;">
-          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-dockerized" style="color:#ffd700;">Amazon Product Web Scraper (Dockerized)</a></h4>
-          <p align="center">A containerized version of the Amazon Scraper CLI that saves product data to a PostgreSQL database.</p>
-          <p align="center">🛠️ Extends <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Amazon Scraper CLI</a> · Docker · PostgreSQL · CLI (Linux)</p>
+          <h4 align="center">🤖 <a href="https://github.com/codewithbab015/amazon-scraper-dockerized" style="color:#ffd700;">Product Web Scraper (Dockerized)</a></h4>
+          <p align="center">A containerized version of the cli product scraper</p>
+          <p align="center">🛠️ Extends <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:white;">Product Scraper CLI</a> · Docker · PostgreSQL · CLI (Linux)</p>
           <p align="center">🔗 <a href="https://github.com/codewithbab015/amazon-scraper-dockerized" style="color:white;">Source Code</a></p>
         </div>
       </td>
