@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark"/>
 <!--   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/> -->
 <!--   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/> -->
-  <img src="https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=for-the-badge&logo=data&logoColor=white" alt="Great Expectations"/>
+<!--   <img src="https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=for-the-badge&logo=data&logoColor=white" alt="Great Expectations"/> -->
 </p>
 
 <p align="center">
