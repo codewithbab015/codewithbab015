@@ -4,7 +4,7 @@
 </div>
 
 <!-- Title -->
-<h2 align="center">Machine Learning Engineer | DevOps Specialist | Data Science Researcher</h2>
+<h2 align="center">Machine Learning Engineer | Junior DevOps Enthusiast | Data Science Researcher</h2>
 
 <!-- About Me -->
 <p align="center">
@@ -51,8 +51,7 @@
 
 <!-- Learning Section -->
 <div align="center">
-  <strong>📚 Currently Learning & Development</strong><br>
-
+  <h3>📚 Currently Learning & Development</h3><br>
   <!-- MLOps & Observability -->
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
