@@ -13,6 +13,35 @@
   Specialized in deploying scalable ML systems with MLOps best practices.
 </p>
 
+<!-- Skills & Domains -->
+<h3 align="center">🧠 Core Skills & Domains</h3>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>🤖 ML Engineering</strong></td>
+        <td>Classification, NLP, Deep Learning</td>
+      </tr>
+      <tr>
+        <td><strong>🛠️ MLOps</strong></td>
+        <td>MLflow, DVC, Docker, Jenkins</td>
+      </tr>
+      <tr>
+        <td><strong>🧩 Explainable AI</strong></td>
+        <td>SHAP, LIME, Integrated Gradients, Transformer Explainability</td>
+      </tr>
+      <tr>
+        <td><strong>🔄 Data Engineering</strong></td>
+        <td>Airflow, Spark</td>
+      </tr>
+      <tr>
+        <td><strong>🌍 Multilingual NLP</strong></td>
+        <td>SA Languages, Hugging Face, xAI, RNNs</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!-- Tech Stack Section -->
 <h3 align="center">💻 Technical Stack</h3>
 
@@ -69,7 +98,7 @@
     <tr>
       <td style="width: 33%; padding: 15px;">
         <div style="background:#0D1117; border:1px solid #30363D; border-radius:6px; padding:20px; color:#C9D1D9;">
-          <h4 align="center">🔍 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#58A6FF; text-decoration:none;">E-commerce Data Extraction CLI</a></h4>
+          <h4 align="center">🔍 <a href="https://github.com/codewithbab015/amazon-scraper-cli" style="color:#58A6FF; text-decoration:none;"><strong>E-commerce Data Extraction CLI</strong></a></h4>
           <p align="center" style="color:#8B949E; font-size:14px;">Automated data extraction tool for marketplace analytics with robust error handling.</p>
           <p align="center" style="color:#7C3AED; font-size:12px;"><strong>Python • Playwright • BeautifulSoup</strong></p>
         </div>
